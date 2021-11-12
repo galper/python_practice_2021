@@ -1,5 +1,4 @@
 import pygame
-import math
 from pygame.draw import *
 
 pygame.init()
